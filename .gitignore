@@ -1,0 +1,14 @@
+/.idea
+##----------Paper----------
+/Achievements
+*.docx
+##----------DataSet----------
+/Solution/DataSet/
+
+##----------Metric----------
+/Result
+#.png
+
+##----------Model----------
+
+
